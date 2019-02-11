@@ -22,29 +22,13 @@ python -m http.server
 
 # Project Title: 
  - An Analysis on San Francisco Bike Trip Data
- - Our team is interested in the effects of SF bike data in 
+ - Our team is interested in the relationship between 
 
 ## Team Members
 - Sandy He
 - Cephra Stuart
 - Dustin Na
 - Jessie Ren
-- Anson Leon
-
-## Timeline
- 1. 1/22 (Tu)
-    - Confirmation of dataset, project proposal
- 2. 1/24 (Th)
-    - API examples, division of labor, project work
- 3. 1/26 (Sat)
-    - Project work
-
-## Project Guidelines
- - A brief articulation of your chosen topic and rationale
- - A link to your dataset(s) and a screenshot of the metadata if it exists.    
- - 3-4 screenshots of relevant "inspiring" visualizations that frame your creative fodder    
- - A sketch of the final design     
- - A link to the primary GitHub repository you'll be housing your work in
 
 ## Project Description
  - Geodata in regards to San Francisco bike data.
